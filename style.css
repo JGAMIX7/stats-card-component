@@ -89,9 +89,13 @@ p{color: var(--slightly-transparent-white-p);}
 
 /* RIGHT SIDE */
 .card .card-right{
-   /* background-color: var(--soft-violet); */
    width: 450px;
-   background: url(images/image-header-desktop.jpg) no-repeat;
+   background: url(images/image-header-desktop.jpg) no-repeat center/cover;
+}
+
+.card .card-right .card-right-filter{
+   background-color: hsla(277, 64%, 61%,0.5);
+   height: 100%;
 }
 
 

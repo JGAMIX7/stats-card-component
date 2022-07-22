@@ -6,4 +6,4 @@ Technologies ued :
 - HTML 
 - CSS (flexbox)
 
-Live Demo : https://jgamix7.github.io/stats-preview-card-component/
+Live Demo : https://jgamix7.github.io/stats-card-component/
